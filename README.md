@@ -67,6 +67,6 @@ Several important findings emerged from this project:
 -Limitations: 
 Despite the project's success, several limitations were identified:
 
-. Training duration: 9 hours of training time limits rapid iteration and hyperparameter tuning. Fixed camera angles The model assumes consistent camera perspectives across deployment. . Lighting dependency Extreme lighting conditions (very dark, very bright) may reduce accuracy. Limited seat types The dataset represents specific campus seating; new furniture may require additional training.
+. Training duration: 9 hours of training time limits rapid iteration and hyperparameter tuning. Fixed camera angles The model assumes consistent camera perspectives across deployment. Lighting dependency Extreme lighting conditions (very dark, very bright) may reduce accuracy. Limited seat types The dataset represents specific campus seating; new furniture may require additional training.
 
-This project successfully applied modern machine learning and computer vision techniques to solve a tangible campus problem. A complete end-to-end AI pipeline was built, from custom dataset collection and annotation (600 images, 300 per class) to model training using YOLOv8 (9 hours on Google Colab) and final evaluation with bounding box visualization and confidence scoring.
+This project successfully applied modern machine learning and computer vision techniques to solve a tangible campus problem. A complete end-to-end AI pipeline was built, from custom dataset collection and annotation (600 images, 300 per class.) to model training using YOLOv8 (9 hours on Google Colab) and final evaluation with bounding box visualization and confidence scoring.
