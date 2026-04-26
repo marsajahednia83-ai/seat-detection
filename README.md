@@ -32,6 +32,7 @@ The dataset ensures diversity and adheres to ethical guidelines by avoiding iden
 - Model evaluation using precision, recall, and mAP
 
 **Real-World Application**
+
 This system can be integrated into a Smart Campus Solution, where cameras installed in study areas can automatically detect and display available seating in real time, improving space utilization and student convenience.
 
 ________________________________________________________________________________________________________________________________________
